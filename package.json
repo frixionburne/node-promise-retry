@@ -1,0 +1,11 @@
+{
+  "name": "node-promise-retry",
+  "version": "1.0.0",
+  "description": "Promise based retry",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "WTFPL"
+}
